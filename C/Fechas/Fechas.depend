@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1629851916 source:d:\users\titan\escritorio\clases virtuales\programacion\c\proyectos\fechas\fechas\fechas.c
+	"Fechas.h"
+	"../../Comun/Defs.h"
+
+1629854329 source:d:\users\titan\escritorio\clases virtuales\programacion\c\proyectos\fechas\fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fechas.h"
+
+1629845711 d:\users\titan\escritorio\clases virtuales\programacion\c\proyectos\fechas\fechas\fechas.h
+	"../../Comun/Defs.h"
+
+1629723511 d:\users\titan\escritorio\clases virtuales\programacion\c\proyectos\comun\defs.h
+

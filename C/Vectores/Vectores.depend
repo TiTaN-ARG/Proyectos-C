@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1630330177 source:d:\users\titan\escritorio\clases virtuales\programacion\c\proyectos\vectores\vectores.c
+	<stdio.h>
+	"Vectores.h"
+
+1630329647 d:\users\titan\escritorio\clases virtuales\programacion\c\proyectos\vectores\vectores.h
+	"../Comun/Defs.h"
+
+1629723511 d:\users\titan\escritorio\clases virtuales\programacion\c\proyectos\comun\defs.h
+
+1630330581 source:d:\users\titan\escritorio\clases virtuales\programacion\c\proyectos\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vectores.h"
+
+1630708206 source:c:\users\titan\documents\programacion c y c++\c\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vectores.h"
+
+1630708047 c:\users\titan\documents\programacion c y c++\c\vectores\vectores.c
+	<stdio.h>
+	"Vectores.h"
+
+1630707591 c:\users\titan\documents\programacion c y c++\c\vectores\vectores.h
+	"../Comun/Defs.h"
+
+1629723511 c:\users\titan\documents\programacion c y c++\c\comun\defs.h
+
+1630708566 source:c:\users\titan\documents\programacion c y c++\c\vectores\vectores.c
+	<stdio.h>
+	"Vectores.h"
+

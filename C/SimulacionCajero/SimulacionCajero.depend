@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1635792230 source:c:\users\titan\documents\programacion c y c++\c\simulacioncajero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"../TDACola/TDACola.h"
+
+1635788624 c:\users\titan\documents\programacion c y c++\c\tdacola\tdacola.h
+	"../TDAColaImplEstatica/TDAColaImplEstatica.h"
+	"../TDAColaImplDinamica/TDAColaImplDinamica.h"
+	"../Comun/Defs.h"
+
+1635438493 c:\users\titan\documents\programacion c y c++\c\tdacolaimplestatica\tdacolaimplestatica.h
+	<stddef.h>
+
+1635787926 c:\users\titan\documents\programacion c y c++\c\tdacolaimpldinamica\tdacolaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1635788024 c:\users\titan\documents\programacion c y c++\c\nodo\nodo.h
+	<stddef.h>
+
+1634833641 c:\users\titan\documents\programacion c y c++\c\comun\defs.h
+

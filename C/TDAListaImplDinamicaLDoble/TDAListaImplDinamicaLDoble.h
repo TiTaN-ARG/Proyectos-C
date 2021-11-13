@@ -1,0 +1,8 @@
+#ifndef TDALISTAIMPLDINAMICALDOBLE_H
+#define TDALISTAIMPLDINAMICALDOBLE_H
+
+#include "../Nodo/NodoD.h"
+
+typedef NodoD *Lista;
+
+#endif // TDALISTAIMPLDINAMICALDOBLE_H

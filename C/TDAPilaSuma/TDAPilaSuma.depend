@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1634835704 source:c:\users\titan\documents\programacion c y c++\c\tdapilasuma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDAPila/TDAPila.h"
+
+1634835026 c:\users\titan\documents\programacion c y c++\c\tdapila\tdapila.h
+	<stddef.h>
+	"../Comun/Defs.h"
+	"../TDAPilaImplEstatica/TDAPilaImplEstatica.h"
+	"../TDAPilaImplDinamica/TDAPilaImplDinamica.h"
+
+1634833641 c:\users\titan\documents\programacion c y c++\c\comun\defs.h
+
+1634830495 c:\users\titan\documents\programacion c y c++\c\tdapilaimplestatica\tdapilaimplestatica.h
+
